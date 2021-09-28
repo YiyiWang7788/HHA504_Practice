@@ -1,2 +1,2 @@
 # HHA504_Practice
-this is a test repo for HW
+this is a test repo for HW for practice 
